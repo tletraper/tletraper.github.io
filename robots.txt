@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tletraper.github.io/sitemap
+Sitemap: https://tletraper.github.io/app/sitemap
+Sitemap: https://tletraper.github.io/assets/sitemap
+Sitemap: https://tletraper.github.io/css/sitemap
+Sitemap: https://tletraper.github.io/includes/sitemap
+Sitemap: https://tletraper.github.io/item/sitemap
+Sitemap: https://tletraper.github.io/src/sitemap
